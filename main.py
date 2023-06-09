@@ -15,3 +15,5 @@ st.balloons()
 
 st.title(f'{continent} GDP from 1952-2007')
 st.table(df)
+
+st.snow()
