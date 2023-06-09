@@ -114,6 +114,8 @@ Faizah melakukan scroll ke bawah dan memastikan ada Indonesia di benua Asia. Lal
 Setelah puas dengan hasil pekerjaannya, Faizah melakukan push ke github
 
 ```bash
+git add . -A
+git commit -m 'Menambah filter'
 git push -u origin feat/per-continent-filter
 ```
 
@@ -154,6 +156,8 @@ Rizki menatap layar monitor dengan sedih, ternyata GDP Indonesia rendah sekali. 
 Tapi Rizki yakin, di tangan pemuda-pemuda berbakat sepertinya, nasib Indonesia akan lebih baik. Rizki kemudian melakukan push ke github dan membuat sebuah pull request.
 
 ```bash
+git add . -A
+git commit -m 'Visualisasi line chart'
 git push -u origin feat/line-chart-visualization
 ```
 
@@ -293,6 +297,8 @@ Di VSCode Faizah, muncul beberapa opsi di area konflik, dan dengan bijaksana, ia
 Faizah lantas meng-update PR nya.
 
 ```bash
+git add . -A
+git commit -m 'Menyelesaikan konflik'
 git push -u origin feat/faizah-celebration
 ```
 
