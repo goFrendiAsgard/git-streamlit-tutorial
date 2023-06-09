@@ -11,5 +11,7 @@ st.plotly_chart(px.line(
     data_frame=df, x='year', y='gdpPercap', color='country'
 ))
 
+st.balloons()
+
 st.title(f'{continent} GDP from 1952-2007')
 st.table(df)
