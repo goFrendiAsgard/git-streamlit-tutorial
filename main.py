@@ -13,3 +13,5 @@ st.plotly_chart(px.line(
 
 st.title(f'{continent} GDP from 1952-2007')
 st.table(df)
+
+st.snow()
