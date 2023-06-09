@@ -7,7 +7,7 @@ Sebuah repository untuk mengenalkan git dan streamlit pada tokoh fiksi `Faizah` 
 Perintah berikut akan meng-clone repository ini ke komputer `Faizah` dan `Rizki`:
 
 ```bash
-git@github.com:goFrendiAsgard/git-streamlit-tutorial.git
+git clone git@github.com:goFrendiAsgard/git-streamlit-tutorial.git
 ```
 
 # Melakukan Setup
